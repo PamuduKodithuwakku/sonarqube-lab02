@@ -1,6 +1,6 @@
 package main.java.com.example;
 
-ublic class App {
+public class App {
 
     public static void main(String[] args) throws Exception {
 
